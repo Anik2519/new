@@ -1,0 +1,59 @@
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"level":"error","message":"Cannot read property 'findById' of undefined Cannot read property 'findById' of undefined","stack":"TypeError: Cannot read property 'findById' of undefined\n    at newMovie (D:\\NodeJs\\Node\\n_api\\Controller\\newMovie.js:9:31)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:91:12)\n    at trim_prefix (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\NodeJs\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\NodeJs\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\NodeJs\\node_modules\\raw-body\\index.js:213:7)"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"level":"error","message":"Movie is not defined Movie is not defined","stack":"ReferenceError: Movie is not defined\n    at newMovie (D:\\NodeJs\\Node\\n_api\\Controller\\newMovie.js:7:19)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:91:12)\n    at trim_prefix (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\NodeJs\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\NodeJs\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\NodeJs\\node_modules\\raw-body\\index.js:213:7)"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"level":"error","message":"Movie is not defined Movie is not defined","stack":"ReferenceError: Movie is not defined\n    at newMovie (D:\\NodeJs\\Node\\n_api\\Controller\\newMovie.js:7:17)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:91:12)\n    at trim_prefix (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\NodeJs\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\NodeJs\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\NodeJs\\node_modules\\raw-body\\index.js:213:7)"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"level":"error","message":"genre is not defined genre is not defined","stack":"ReferenceError: genre is not defined\n    at newMovie (D:\\NodeJs\\Node\\n_api\\Controller\\newMovie.js:10:14)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:91:12)\n    at trim_prefix (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\NodeJs\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\NodeJs\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\NodeJs\\node_modules\\raw-body\\index.js:213:7)"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"level":"error","message":"genre is not defined genre is not defined","stack":"ReferenceError: genre is not defined\n    at newMovie (D:\\NodeJs\\Node\\n_api\\Controller\\newMovie.js:11:14)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\NodeJs\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Layer.handle [as handle_request] (D:\\NodeJs\\node_modules\\express\\lib\\router\\layer.js:91:12)\n    at trim_prefix (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\NodeJs\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\NodeJs\\node_modules\\body-parser\\lib\\read.js:130:5\n    at invokeCallback (D:\\NodeJs\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\NodeJs\\node_modules\\raw-body\\index.js:213:7)"}
