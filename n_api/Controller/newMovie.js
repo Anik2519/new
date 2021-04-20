@@ -8,8 +8,8 @@ let newMovie = async (req, res, next) => {
     let movie = new Movie({
       title: req.body.title,
       genre: {
-        _id: genre._id,
-        name: genre.name
+        _id: Genre._id,
+        name: Genre.name
       },
       numberInStock: req.body.numberInStock,
       dailyRentalRate: req.body.dailyRentalRate
